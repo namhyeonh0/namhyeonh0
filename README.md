@@ -1,4 +1,4 @@
-![헤더](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=백엔드%20개발자%20남현호입니다.&fontAlign=50&fontAlignY=50&fontSize=50)
+
 
 ## Hi there 👋
 
