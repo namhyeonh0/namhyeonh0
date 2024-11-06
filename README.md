@@ -2,8 +2,6 @@
 
 ## Hi there 👋
 
-[![Hits](https://hits.sh/github.com/namhyeonh0.svg?view=today-total)](https://hits.sh/github.com/namhyeonh0/)
-
 [![namhyeonh0's GitHub stats](https://github-readme-stats.vercel.app/api?username=namhyeonh0)](https://github.com/namhyeonh0/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=namhyeonh0)](https://github.com/namhyeonh0/github-readme-stats)
